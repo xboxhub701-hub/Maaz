@@ -1,0 +1,5 @@
+{
+  "name": "Copy of X Timer",
+  "description": "A multi-timer app for managing multiple devices like gaming stations. Each timer can be individually named, started, paused, and reset. It automatically calculates and displays the cost based on time used and plays a sound when the timer finishes.",
+  "requestFramePermissions": []
+}
